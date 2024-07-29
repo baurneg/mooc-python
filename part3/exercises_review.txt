@@ -1,0 +1,6 @@
+7_sum_consec_numbers_2
+22_second_occurence
+26_flip_the_pairs
+27_taking_turns
+33_chessboard
+34_word_squared
